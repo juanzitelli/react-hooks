@@ -1,0 +1,281 @@
+* [33m941c569[m[33m ([m[1;36mHEAD -> [m[1;32mjz/solutions[m[33m, [m[1;32mmain[m[33m)[m email autofill
+* [33mfaf45c7[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m remove unused extension and config options
+* [33m925b820[m docs: add marioleed as a contributor for code (#161)
+* [33md2a029d[m Add support for node 17 (#160)
+* [33m1796e5f[m remove whitespaces (#156)
+* [33m4988f8a[m fix a typo in 04.md (#153)
+* [33med1abc0[m docs: add mokajima as a contributor for doc (#155)
+* [33m604b6cd[m improve the background in 05.md (#154)
+* [33m4297227[m docs: add mokajima as a contributor for code (#151)
+* [33m984df10[m Apply the same change suggested by dlo to calculateNextValue() (#150)
+* [33m96604a3[m docs: add pvinis as a contributor for doc (#145)
+* [33m5bbc124[m typo fix (#144)
+* [33m59586a1[m docs: add Eik-S as a contributor for test (#143)
+* [33m7cfeebc[m fix: test 02 is now working with initialValue set (#142)
+* [33m425fc8c[m docs: add Aprillion as a contributor for doc (#140)
+* [33md5bef13[m Update README.md (#139)
+* [33me96ed6e[m docs: add JacobParis as a contributor for doc (#138)
+* [33m79d03df[m Update 02.extra-4.js (#137)
+* [33m079cce8[m update all deps
+* [33m747b7f6[m update sandbox config
+* [33m8606465[m add diff script
+* [33m50bec2d[m update deps
+* [33m384ec85[m update deps
+* [33m038a970[m fix docker node version
+* [33m9d23a45[m fix version stuff
+* [33mb11c640[m Update 06.md
+* [33m7982cb4[m update all deps
+* [33m31c1263[m update all deps
+* [33ma2d7aab[m docs: add shivaprabhu as a contributor (#133)
+* [33m1aa13c3[m Update 02.md (#132)
+* [33m119a8c9[m update all deps
+* [33m48352eb[m docs: add dlo as a contributor (#129)
+* [33m7481df2[m Lesson 4: simplify `calculateNextValue` (#128)
+* [33mec431d5[m update deps
+* [33m711f3fc[m update README node version
+* [33mabe7de0[m drop node 10 and update all deps
+* [33m035cb33[m fix links
+* [33m3e61b57[m add nancy the notepad
+* [33md96d423[m docs: add trentschnee as a contributor (#125)
+* [33m32ae240[m Update 02.js (#124)
+* [33mfd3c287[m docs: add Alferguson as a contributor (#122)
+* [33me39eca0[m Fix 02 Test not checking input textbox's value after refresh (#121)
+* [33m80d4e8f[m update workshop app
+* [33m695e4e1[m update all deps
+* [33mb6d38ea[m move ts to dev dep
+* [33m8f4c0a8[m update deps
+* [33m25d1c32[m update sw
+* [33m5084ed1[m docs: add Segebre as a contributor (#115)
+* [33m54491b4[m Added button to visualise key change (#110)
+* [33m463fe0d[m docs: add suddenlyGiovanni as a contributor (#114)
+* [33mddcf6c2[m docs: add omarhoumz as a contributor (#113)
+* [33m1dc57cd[m fix: add back files (#111)
+* [33mc8af4e0[m update all the things
+* [33m861594b[m update all deps
+* [33m2ac82ac[m Update README.md
+* [33m0dc900e[m update all the things
+* [33m8fde4a0[m Answer common question about .catch
+* [33mf3d7c4e[m docs: add cwinters8 as a contributor (#106)
+* [33m3f49d13[m fix comment in exercise 6
+* [33m0b465d9[m chore: ignore .eslintcache (#104)
+* [33m4b2a9a5[m add link to alternate
+* [33m0706efe[m add comment about the change in react 17
+* [33m822d30b[m docs: add mansn as a contributor (#101)
+* [33mbbf84c3[m docs: remove incorrect text in 06.md (#100)
+* [33mffbfc4f[m update all deps
+* [33m9f31f67[m docs: add nekhaevskiy as a contributor (#99)
+* [33m3c01e8d[m Add folder name for hook-flow.png file (#98)
+* [33m0ad717f[m docs: add douglance as a contributor (#97)
+* [33mf760879[m Update 05.md (#96)
+* [33m360828a[m add TS types for React
+* [33mc48142e[m ignore all-contributors
+* [33m5548d14[m docs: add bobbywarner as a contributor (#94)
+* [33m51f3f39[m Fix setup error by adding Node 15 (#93)
+* [33mc9c5619[m update deps and DOCKER
+* [33me2e5a27[m order things sensibly
+* [33m98f80b2[m update to better things
+* [33ma0d86a0[m this is pretty neat
+* [33m8de77e5[m this is what it has to be
+* [33m747f98b[m use shared action
+* [33md625527[m yaml face_palm
+* [33m54226a7[m test local action file
+* [33m0d8e1a9[m rename validate workflow
+* [33mf9b3028[m add github actions
+* [33m0e1a8c6[m [ImgBot] Optimize images (#89)
+* [33m91faeba[m docs: add MichaelDeBoey as a contributor (#88)
+* [33m3aa4a04[m chore: update React imports (#87)
+* [33md6af2d0[m update all deps
+* [33me9a2747[m update all deps
+* [33medfdc1d[m improve some tests
+* [33mebddb38[m docs: add DaleSeo as a contributor (#85)
+* [33mc6bc061[m Add Unit Test for 03.extra-1.js (#84)
+* [33m5cab9e4[m docs: add DaleSeo as a contributor (#83)
+* [33m7fc682d[m use getByRole instead of getByLabelText (#82)
+* [33m41b4223[m npm audit fix (#81)
+* [33m3e15010[m fix alternate exercise label (#80)
+* [33m0e80569[m docs: add thebrengun as a contributor (#79)
+* [33me3abf65[m found a typo (#78)
+* [33m4c4a415[m update all deps
+* [33ma6ab9f6[m improve CI config
+* [33m77ea3c1[m update all deps
+* [33m6daa049[m docs: add roni-castro as a contributor (#77)
+* [33me47894c[m Add test to avoid bug on multiple square click (#76)
+* [33mbef40aa[m docs: add DallasCarraher as a contributor (#75)
+* [33m298366e[m Minor suggestions to the exercise comments (#73)
+* [33m4551967[m update all deps
+* [33mf933d53[m update all deps
+* [33m63b2f2f[m docs: add RafaelDavisH as a contributor (#70)
+* [33mdf3be09[m Add initialName prop (#68)
+* [33mb22df8c[m docs: add thegoodsheppard as a contributor (#69)
+* [33m2667cad[m Found a typo (#67)
+* [33ma3d60cf[m docs: add nativedone as a contributor (#66)
+* [33m0e7c970[m Update 06.js (#65)
+* [33mb8dbfcb[m update all deps and improve alfred tips
+* [33m159ca03[m update repo and setup instructions
+* [33m604b3f3[m add test for Extra Credit 03 (game history) (#60)
+* [33m12252e7[m docs: add degeens as a contributor (#63)
+* [33m1d35f2e[m Fix incorrect filename in exercise 2 (#61)
+* [33m941660c[m docs: add Snaptags as a contributor (#62)
+* [33m72e6069[m use screen instead of accessing the container (#59)
+* [33m5112fe8[m docs: add apolakipso as a contributor (#58)
+* [33m1b5e821[m Improve extra credit solution (#57)
+* [33md4d5b83[m fix travis config
+* [33m8b8dd6b[m fix pre-push
+* [33m543f683[m update travis URL
+* [33m7c08741[m update app and fix pre-push
+* [33m258209d[m improve setup instructions
+* [33ma934ddd[m improve pre-push and pre-commit
+* [33mf7c0de6[m improve pre-commit and pre-push
+* [33m8dde0b7[m improve setup script
+* [33mdde295f[m improve codesandbox config
+* [33m2e6930f[m improve codesandbox config
+* [33md4b0c2e[m add codesandbox alternative
+* [33m655f2cf[m fix 02 so all the extra credits pass the test
+* [33mae9a9d9[m improve node version range
+* [33m82f6412[m docs: add jmagrippis as a contributor (#56)
+* [33me53e8aa[m use https for the npm registry (#53)
+* [33me851e67[m docs: add thacherhussain as a contributor (#55)
+* [33m52ea6cd[m small typo in 01.md (#50)
+* [33m693ea62[m docs: add timobleeker as a contributor (#54)
+* [33ma882467[m Fix typo in 06.md (#47)
+* [33mdf8442d[m docs: add Aprillion as a contributor (#46)
+* [33m2bbc5ae[m satelite favicon for simple hooks (#40)
+* [33m7fd5875[m docs: add emzoumpo as a contributor (#42)
+* [33m7982691[m Fix small typo in 02.md (#41)
+* [33m8a1f54a[m fix: update the service worker file for MSW (#39)
+* [33m6d0d635[m update system requirements
+* [33m63f5cf5[m docs: add PritamSangani as a contributor (#38)
+* [33mae44c61[m Update package.json (#37)
+* [33m4274f77[m update deps
+* [33m1adeca6[m update all the things FOR THE LAUNCH!!! 🚀
+* [33mdef9339[m update all deps
+* [33m8571ddf[m master ▶️ main
+* [33me1bfeb5[m Koalas are not bears 🐨
+* [33m75ba989[m add a tip to tic-tac-toe extra credit for history
+* [33mf427315[m docs: add flofehrenbacher as a contributor (#36)
+* [33mea6d925[m typo: delete one each (#35)
+* [33m7f3b4de[m docs: add dschapman as a contributor (#34)
+* [33mecacc21[m fix: the address of the Pokemon api has moved (#33)
+* [33m82c92ae[m update to the latest version of the workshop app
+* [33m31ac256[m docs: add gugol2 as a contributor (#32)
+* [33m59b5cd7[m fix test
+* [33m00a3412[m use msw instead of the dead endpoint
+* [33m9345274[m fix: if deserialize give an error show the default value (#31)
+* [33m3ab3e9c[m docs: add marcosvega91 as a contributor (#30)
+* [33m6a93f93[m chore: add .gitattributes (#29)
+* [33m618eda9[m ditch jest-env
+* [33meb1b378[m remove badge. Does not work?
+* [33m8f802b4[m add settings
+* [33mcda1bc4[m improve things and whatnot
+* [33mf934625[m update readme
+* [33m095f380[m markdown license
+* [33m3600926[m improve docs
+* [33m470ace1[m improve docs
+* [33mfb0ef45[m update docs
+* [33m0483f1b[m update deps and docs
+* [33md18ff80[m update all the things
+* [33m65cc86d[m rename netlify to "react-hooks"
+* [33m98bfc9b[m update all the things
+* [33m0317d44[m fix links
+* [33md18891e[m update all the things and add .vscode
+* [33m8300626[m docs: add lideo as a contributor (#27)
+* [33md841cf8[m Fix the URL for the final version of exercise 4.3 (#26)
+* [33m892e318[m improve pending state for extra 7
+* [33m66b5322[m remove test I don't have time to deal with right now
+* [33m86f50fc[m drastic improvements to error boundary stuff
+* [33mf86d6eb[m fix extra credit code sample
+* [33md424790[m fixup useLocalStorageState
+* [33m7ede0ab[m fix 04-classes a bit
+* [33ma481977[m fix title of extra credit
+* [33m33ab359[m remove react-error-boundary and make our own
+* [33mb68138b[m consolodate pokemon
+* [33m5260528[m remove unnecessary/confusing extra credit
+* [33m9767d30[m add error boundaries and improve 06
+* [33m64a3b60[m fixup title
+* [33mefa611e[m fix travis
+* [33m1132152[m update repo and deps
+* [33m9cf7bbe[m docs: add CharlieStras as a contributor (#25)
+* [33mbad8184[m Improve some exercises (#24)
+* [33m10c7904[m update all the things
+* [33mec66bb7[m whoops
+* [33me39f3fe[m add missing feedback link
+* [33m6726067[m docs: add CharlieStras as a contributor (#22)
+* [33m9ae8adc[m Add workshop feedback in README (#21)
+* [33m77eea2b[m improve some exercises
+* [33m356f120[m improve some exercises
+* [33m7a4656e[m fixup some examples
+* [33madffcac[m add note about alternate
+* [33m4fbac8c[m remove old comment
+* [33me948e7e[m fix link in 04
+* [33m3809d76[m update 02 to move the flow
+* [33m4230274[m improve hook flow
+* [33m50cb8ed[m fix old references to count
+* [33m3586010[m fix tests
+* [33m6ba4a19[m some updates
+* [33m7e2fca7[m update all links
+* [33m353bba7[m checkpoint
+* [33mf2c16e3[m not useage... app
+* [33m7798082[m update all the things
+* [33m7ab1869[m docs: remove CodeFund sponsor (#20)
+* [33m671ed41[m update all the things
+* [33m71c4281[m fix elaboration and feedback form links
+* [33mcfc2e2a[m upgrade to react-workshop-app
+* [33m106feda[m really switch this time
+* [33me2a7c98[m update everything
+* [33m2e7111d[m improve localstorage implementation
+* [33m7ace216[m fix useLocalStorage hook
+* [33me1fc89b[m improve test for 04
+* [33m864bc96[m some good improvements to 04
+* [33m5203a17[m update things
+* [33mff670ba[m docs: add AlgusDark as a contributor (#18)
+* [33md0d50fe[m Add marty (money) emoji (#17)
+* [33m704bf42[m add 05 classes
+* [33mb59ffb5[m upgrade all the things
+* [33mb89b092[m docs: add jdorfman as a contributor (#16)
+* [33mdcd6686[m docs: Update README.md (#15)
+* [33m20a3b2b[m update all the things and status is derived
+* [33m5fc9a64[m docs: add mplis as a contributor (#14)
+* [33m37ae183[m Update second test in 02.js (#12)
+* [33m5d2c094[m docs: add mplis as a contributor (#13)
+* [33m9dbca40[m Update autofill-feedback-email.js (#11)
+* [33m1a178c3[m boo arrow
+* [33m983ce27[m I do not like the word "functional" in this context
+* [33ma61353d[m update all deps
+* [33m3175701[m update deps
+* [33ma7eadb8[m move elaboration and feedback
+* [33mea5f1b7[m fix outline
+* [33m11e2375[m whoops
+* [33m55e5a98[m add hook flow chart
+* [33m8bed603[m add egghead videos
+* [33m2b5d066[m add feedback url to outline
+* [33ma898ff0[m fix email autofill script for windows
+* [33m98cd5f1[m improve lesson titles
+* [33m868e54e[m fix title
+* [33mceb677f[m schedule
+* [33m075675c[m 06 is fabulous
+* [33mf6c5128[m 05 is super
+* [33m3eef86c[m 04 is super
+* [33m144b352[m good improvements
+* [33md4563f1[m checkpoint
+* [33mc72a510[m remove react.memo because reasons
+* [33m41ad2fc[m improve test thing
+* [33m6f0a197[m update all the things
+* [33m731a98d[m fix comment
+* [33m04ce467[m really this time
+* [33m3a28710[m remove reducer extra credit for 06
+* [33m939e57b[m update all the things
+* [33m2db360f[m add some clarity
+* [33ma0cdd2c[m init 04.md (#8)
+* [33m643a0f5[m add troubleshooting for file watching limits (#7)
+* [33m7c3765a[m docs: add tsnieman as a contributor (#6)
+* [33m8f5c5de[m change 'input array' to 'dependency array' (#4)
+* [33m56c55a1[m docs: add tsnieman as a contributor (#3)
+* [33m28a9ce4[m remove unnecessary dependency (#2)
+* [33m1aefdd2[m fix docs
+* [33m9e933f4[m improve setup script
+* [33mb11216c[m fix netlify thing
+* [33mfde8633[m readme fixups
+* [33m0805667[m who needs coverage stats
+* [33m4f8811d[m add redirects
+* [33maf00a96[m fix badges
+* [33m1974ac1[m init
