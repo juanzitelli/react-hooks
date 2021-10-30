@@ -87,7 +87,7 @@ const Game = () => {
             const isCurrentMove = currentMove === historyIndex
             const description = isCurrentMove ? '(current)' : ''
             return (
-              <MoveItem>
+              <MoveItem index={historyIndex}>
                 <MoveItemButton
                   onClickHandler={() => {
                     setCurrentMove(historyIndex)
